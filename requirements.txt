@@ -1,0 +1,9 @@
+torch
+pandas
+matplotlib
+numpy
+scipy
+transformers
+scikit-learn
+bitsandbytes
+accelerate
