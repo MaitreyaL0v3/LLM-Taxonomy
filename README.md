@@ -10,7 +10,7 @@ We treat the backpropagation process as a physical system. The gradient of the l
 
 ## The 5 Core Metrics
 
-The benchmark is composed of five novel metrics. For each metric, a *lower score is better*, indicating more efficiency, stability, or structure. For visualization on the radar chart, the scores are inverted and normalized, so a larger area is better.
+The benchmark is composed of five novel metrics. For each metric, a lower score indicates more efficiency, stability, or structure. For visualization on the radar chart, the scores are inverted and normalized, so a larger area is better.
 
 | Metric | Measures | Interpretation (Low Score) | Interpretation (High Score) | Analogy |
 | :--- | :--- | :--- | :--- | :--- |
